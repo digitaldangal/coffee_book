@@ -12,12 +12,19 @@ class _SplashPageState extends State<SplashPage> {
 
     // Listen for our auth event (on reload or start)
     // Go to our /coffees page once logged in
-    auth.onAuthStateChanged.firstWhere((user) => user != null).then((user) {
-      Navigator.of(context).pushReplacementNamed('/coffees');
-    });
+//    _auth.onAuthStateChanged.firstWhere((user) => user != null).then((user) {
+//      Navigator.of(context).pushReplacementNamed('/coffees');
+//    });
 
     // Give the navigation animations, etc, some time to finish
-    new Future.delayed(new Duration(seconds: 1)).then((_) => _ensureLoggedIn());
+    new Future.delayed(new Duration(seconds: 1)).then(
+            (_) => signInWithGoogle()
+                .then((FirebaseUser user) => user != null)
+                .then((user)
+                    {
+                      Navigator.of(context).pushReplacementNamed('/coffees');
+                    })
+                .catchError((e) => print(e)));
   }
 
   @override

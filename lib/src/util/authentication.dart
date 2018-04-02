@@ -1,30 +1,43 @@
 part of coffee_book;
 
-final FirebaseAuth auth = FirebaseAuth.instance;
-final GoogleSignIn googleSignIn = new GoogleSignIn();
+final FirebaseAuth _auth = FirebaseAuth.instance;
+final GoogleSignIn _googleSignIn = new GoogleSignIn();
 
-Future<Null> _ensureLoggedIn() async {
-  GoogleSignInAccount user = googleSignIn.currentUser;
+Future<FirebaseUser> signInWithGoogle() async {
+  signOutWithGoogle();
+  // Attempt to get the currently authenticated user
+  GoogleSignInAccount currentUser = _googleSignIn.currentUser;
+  if (currentUser == null) {
+    // Attempt to sign in without user interaction
+    currentUser = await _googleSignIn.signInSilently();
+  }
+  if (currentUser == null) {
+    // Force the user to interactively sign in
+    currentUser = await _googleSignIn.signIn();
+  }
 
-  if (user == null)
-    user = await googleSignIn.signInSilently();
-  if (user == null) {
-    await googleSignIn.signIn();
-  }
-  if (await auth.currentUser() == null) {
-    GoogleSignInAuthentication credentials = await googleSignIn.currentUser.authentication;
-    await auth.signInWithGoogle(
-      accessToken: credentials.accessToken,
-      idToken: credentials.idToken,
-    );
-    print("DDDDDDDDDDDDD");
-    print(user);
-  }
+  print("AAAAAAAAAAAA " + currentUser.toString());
+  final GoogleSignInAuthentication auth = await currentUser.authentication;
+
+  print("BBBBBBBBBBBB " );
+
+  // Authenticate with firebase
+  final FirebaseUser user = await _auth.signInWithGoogle(
+    idToken: auth.idToken,
+    accessToken: auth.accessToken,
+  );
+
+  print("CCCCCCCCCCCCC " +user.toString());
+  assert(user != null);
+  assert(!user.isAnonymous);
+
+  print("DDDDDDDDDDDDDDD " +user.toString());
+  return user;
 }
 
-Future<Null> _signOutWithGoogle() async {
+Future<Null> signOutWithGoogle() async {
   // Sign out with firebase
-  await auth.signOut();
+  await _auth.signOut();
   // Sign out with google
-  await googleSignIn.signOut();
+  await _googleSignIn.signOut();
 }

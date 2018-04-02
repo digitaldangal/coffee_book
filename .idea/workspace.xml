@@ -4,7 +4,113 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb20cb00-72a0-4d3f-8a12-8bffb242ca52" name="Default" comment="" />
+    <list default="true" id="fb20cb00-72a0-4d3f-8a12-8bffb242ca52" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/177.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/178.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/182.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/183.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/184.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/185.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/186.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/187.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/188.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/189.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/190.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/191.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/192.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/193.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/194.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/197.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/198.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/199.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/200.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/201.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/203.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/204.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/205.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/240.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/253.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/254.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/255.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/256.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/257.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/firebase_auth/intermediates/classes/debug/io/flutter/plugins/firebaseauth/FirebaseAuthPlugin$ProvidersCompleteListener.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/app/intermediates/assets/debug/flutter_assets/snapshot_blob.bin" afterPath="$PROJECT_DIR$/build/app/intermediates/assets/debug/flutter_assets/snapshot_blob.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/app.flx" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/app.flx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/snapshot_blob.bin" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/snapshot_blob.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/snapshot_blob.bin" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/snapshot_blob.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/merge-state" afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/merge-state" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJniLibs/merge-state" afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJniLibs/merge-state" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/packageDebug/debug/zip-cache/ljRAGmbKYxbFGLwSA0_ju8UgYvY=" afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/packageDebug/debug/zip-cache/ljRAGmbKYxbFGLwSA0_ju8UgYvY=" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/156.jar" afterPath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/156.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/157.jar" afterPath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/157.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/158.jar" afterPath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/158.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/159.jar" afterPath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/159.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/160.jar" afterPath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/160.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/161.jar" afterPath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/161.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/162.jar" afterPath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/162.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/164.jar" afterPath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/164.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/165.jar" afterPath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/165.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/172.jar" afterPath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/172.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/173.jar" afterPath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/173.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/174.jar" afterPath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/174.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/175.jar" afterPath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/175.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/176.jar" afterPath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/176.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/224.jar" afterPath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/224.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/225.jar" afterPath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/225.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/226.jar" afterPath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/226.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/227.jar" afterPath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/227.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/228.jar" afterPath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/228.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexMerger/debug/0/classes.dex" afterPath="$PROJECT_DIR$/build/app/intermediates/transforms/dexMerger/debug/0/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/externalLibsDexMerger/debug/0/classes.dex" afterPath="$PROJECT_DIR$/build/app/intermediates/transforms/externalLibsDexMerger/debug/0/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/mergeJavaRes/debug/0.jar" afterPath="$PROJECT_DIR$/build/app/intermediates/transforms/mergeJavaRes/debug/0.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/app/outputs/apk/app.apk" afterPath="$PROJECT_DIR$/build/app/outputs/apk/app.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/app/outputs/apk/debug/app-debug.apk" afterPath="$PROJECT_DIR$/build/app/outputs/apk/debug/app-debug.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/cloud_firestore/outputs/aar/cloud_firestore-debug.aar" afterPath="$PROJECT_DIR$/build/cloud_firestore/outputs/aar/cloud_firestore-debug.aar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/firebase_auth/intermediates/bundles/debug/classes.jar" afterPath="$PROJECT_DIR$/build/firebase_auth/intermediates/bundles/debug/classes.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/firebase_auth/intermediates/classes/debug/io/flutter/plugins/firebaseauth/FirebaseAuthPlugin$1.class" afterPath="$PROJECT_DIR$/build/firebase_auth/intermediates/classes/debug/io/flutter/plugins/firebaseauth/FirebaseAuthPlugin$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/firebase_auth/intermediates/classes/debug/io/flutter/plugins/firebaseauth/FirebaseAuthPlugin$2.class" afterPath="$PROJECT_DIR$/build/firebase_auth/intermediates/classes/debug/io/flutter/plugins/firebaseauth/FirebaseAuthPlugin$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/firebase_auth/intermediates/classes/debug/io/flutter/plugins/firebaseauth/FirebaseAuthPlugin$3.class" afterPath="$PROJECT_DIR$/build/firebase_auth/intermediates/classes/debug/io/flutter/plugins/firebaseauth/FirebaseAuthPlugin$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/firebase_auth/intermediates/classes/debug/io/flutter/plugins/firebaseauth/FirebaseAuthPlugin$4.class" afterPath="$PROJECT_DIR$/build/firebase_auth/intermediates/classes/debug/io/flutter/plugins/firebaseauth/FirebaseAuthPlugin$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/firebase_auth/intermediates/classes/debug/io/flutter/plugins/firebaseauth/FirebaseAuthPlugin$SignInCompleteListener.class" afterPath="$PROJECT_DIR$/build/firebase_auth/intermediates/classes/debug/io/flutter/plugins/firebaseauth/FirebaseAuthPlugin$SignInCompleteListener.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/firebase_auth/intermediates/classes/debug/io/flutter/plugins/firebaseauth/FirebaseAuthPlugin$TaskVoidCompleteListener.class" afterPath="$PROJECT_DIR$/build/firebase_auth/intermediates/classes/debug/io/flutter/plugins/firebaseauth/FirebaseAuthPlugin$TaskVoidCompleteListener.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/firebase_auth/intermediates/classes/debug/io/flutter/plugins/firebaseauth/FirebaseAuthPlugin.class" afterPath="$PROJECT_DIR$/build/firebase_auth/intermediates/classes/debug/io/flutter/plugins/firebaseauth/FirebaseAuthPlugin.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/firebase_auth/intermediates/intermediate-jars/debug/classes.jar" afterPath="$PROJECT_DIR$/build/firebase_auth/intermediates/intermediate-jars/debug/classes.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/firebase_auth/outputs/aar/firebase_auth-debug.aar" afterPath="$PROJECT_DIR$/build/firebase_auth/outputs/aar/firebase_auth-debug.aar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/google_sign_in/outputs/aar/google_sign_in-debug.aar" afterPath="$PROJECT_DIR$/build/google_sign_in/outputs/aar/google_sign_in-debug.aar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.flutter-plugins" afterPath="$PROJECT_DIR$/.flutter-plugins" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.packages" afterPath="$PROJECT_DIR$/.packages" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/snapshot_blob.bin.d" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/snapshot_blob.bin.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/snapshot_blob.bin.d.fingerprint" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/snapshot_blob.bin.d.fingerprint" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/packageDebug/debug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/packageDebug/debug/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/packageDebug/debug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/packageDebug/debug/file-input-save-data.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/__content__.json" afterPath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/__content__.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexMerger/debug/__content__.json" afterPath="$PROJECT_DIR$/build/app/intermediates/transforms/dexMerger/debug/__content__.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/mergeJavaRes/debug/__content__.json" afterPath="$PROJECT_DIR$/build/app/intermediates/transforms/mergeJavaRes/debug/__content__.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/mergeJniLibs/debug/__content__.json" afterPath="$PROJECT_DIR$/build/app/intermediates/transforms/mergeJniLibs/debug/__content__.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/app/outputs/apk/app.apk.sha1" afterPath="$PROJECT_DIR$/build/app/outputs/apk/app.apk.sha1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/cloud_firestore/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterPath="$PROJECT_DIR$/build/cloud_firestore/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/cloud_firestore/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/build/cloud_firestore/intermediates/incremental/packageDebugResources/compile-file-map.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/cloud_firestore/intermediates/transforms/mergeJniLibs/debug/__content__.json" afterPath="$PROJECT_DIR$/build/cloud_firestore/intermediates/transforms/mergeJniLibs/debug/__content__.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/firebase_auth/intermediates/incremental/mergeDebugAssets/merger.xml" afterPath="$PROJECT_DIR$/build/firebase_auth/intermediates/incremental/mergeDebugAssets/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/firebase_auth/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterPath="$PROJECT_DIR$/build/firebase_auth/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/firebase_auth/intermediates/incremental/mergeDebugShaders/merger.xml" afterPath="$PROJECT_DIR$/build/firebase_auth/intermediates/incremental/mergeDebugShaders/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/firebase_auth/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/build/firebase_auth/intermediates/incremental/packageDebugResources/compile-file-map.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/firebase_auth/intermediates/incremental/packageDebugResources/merger.xml" afterPath="$PROJECT_DIR$/build/firebase_auth/intermediates/incremental/packageDebugResources/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/firebase_auth/intermediates/transforms/mergeJniLibs/debug/__content__.json" afterPath="$PROJECT_DIR$/build/firebase_auth/intermediates/transforms/mergeJniLibs/debug/__content__.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/firebase_auth/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/build/firebase_auth/outputs/logs/manifest-merger-debug-report.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/google_sign_in/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/build/google_sign_in/intermediates/incremental/packageDebugResources/compile-file-map.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/google_sign_in/intermediates/transforms/mergeJniLibs/debug/__content__.json" afterPath="$PROJECT_DIR$/build/google_sign_in/intermediates/transforms/mergeJniLibs/debug/__content__.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/src/pages/coffee_list.dart" afterPath="$PROJECT_DIR$/lib/src/pages/coffee_list.dart" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/src/pages/splash_page.dart" afterPath="$PROJECT_DIR$/lib/src/pages/splash_page.dart" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/src/util/authentication.dart" afterPath="$PROJECT_DIR$/lib/src/util/authentication.dart" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pubspec.lock" afterPath="$PROJECT_DIR$/pubspec.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pubspec.yaml" afterPath="$PROJECT_DIR$/pubspec.yaml" />
+    </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
     <ignored path="$PROJECT_DIR$/.pub/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -21,8 +127,18 @@
       <file leaf-file-name="authentication.dart" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/src/util/authentication.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="15" column="32" lean-forward="true" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+            <state relative-caret-position="187">
+              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="18" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="splash_page.dart" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/src/pages/splash_page.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="12" lean-forward="false" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -39,17 +155,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>o</find>
-      <find>Todo</find>
-      <find>t</find>
-      <find>tod</find>
-      <find>todo</find>
-      <find>r</find>
-      <find>ro</find>
-      <find>rout</find>
-      <find>route</find>
-      <find>_MaterialAppState</find>
-      <find>Navigator</find>
       <find>&quot;/co</find>
       <find>&quot;/c</find>
       <find>&quot;</find>
@@ -69,6 +174,17 @@
       <find>signInWithGoogle</find>
       <find>error</find>
       <find>error message</find>
+      <find>DDDD</find>
+      <find>GeneratingTask</find>
+      <find>GeneratingTas</find>
+      <find>GeneratingTa</find>
+      <find>GeneratingT</find>
+      <find>Generating</find>
+      <find>jk</find>
+      <find>j</find>
+      <find>registerResGeneratingTask</find>
+      <find>register</find>
+      <find>registerGeneratedFolders</find>
     </findStrings>
     <replaceStrings>
       <replace>CoffeeList</replace>
@@ -80,7 +196,11 @@
     </replaceStrings>
     <dirStrings>
       <dir>D:\flutter_apps\coffee_book\lib</dir>
+      <dir>D:\flutter_apps\coffee_book</dir>
     </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -91,31 +211,33 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/android/app/google-services.json" />
-        <option value="$PROJECT_DIR$/android/build.gradle" />
-        <option value="$PROJECT_DIR$/android/app/build.gradle" />
         <option value="$PROJECT_DIR$/lib/authentication.dart" />
         <option value="$PROJECT_DIR$/lib/src/pages/coffee_book_app.dart" />
         <option value="$PROJECT_DIR$/lib/main.dart" />
         <option value="$PROJECT_DIR$/lib/src/models/coffee.dart" />
         <option value="$PROJECT_DIR$/lib/src/widgets/loading_indicator.dart" />
-        <option value="$PROJECT_DIR$/lib/src/services/storage.dart" />
         <option value="$PROJECT_DIR$/test/widget_test.dart" />
-        <option value="$PROJECT_DIR$/lib/src/pages/coffee_list.dart" />
         <option value="$PROJECT_DIR$/lib/src/widgets/coffee_header.dart" />
         <option value="$PROJECT_DIR$/lib/src/widgets/coffee_widget.dart" />
         <option value="$PROJECT_DIR$/lib/src/pages/stuff.dart" />
-        <option value="$PROJECT_DIR$/pubspec.yaml" />
+        <option value="$PROJECT_DIR$/android/app/build.gradle" />
+        <option value="$PROJECT_DIR$/android/build.gradle" />
         <option value="$PROJECT_DIR$/lib/src/coffee_book_app.dart" />
-        <option value="$PROJECT_DIR$/lib/src/pages/splash_page.dart" />
+        <option value="$PROJECT_DIR$/lib/src/services/storage.dart" />
+        <option value="$PROJECT_DIR$/pubspec.yaml" />
+        <option value="$PROJECT_DIR$/lib/src/pages/coffee_list.dart" />
         <option value="$PROJECT_DIR$/lib/src/util/authentication.dart" />
+        <option value="$PROJECT_DIR$/lib/src/pages/splash_page.dart" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="width" value="974" />
-    <option name="height" value="1047" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -211,43 +333,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="android" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="coffee_book" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="coffee_book" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="android" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="coffee_book" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="coffee_book" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="android" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
+              <option name="myItemId" value="lib" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -255,7 +341,43 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
+              <option name="myItemId" value="services" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="coffee_book" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="coffee_book" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="coffee_book" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="coffee_book" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -359,7 +481,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1522645468342" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1522651635356" />
       </method>
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
@@ -407,7 +529,7 @@
       </Profilers>
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1522645468342" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1522651635356" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -452,6 +574,27 @@
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
       <method />
     </configuration>
     <configuration default="true" type="JarApplication" factoryName="JAR Application">
@@ -579,25 +722,27 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3265766" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33110368" sideWeight="0.5021322" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Dart Analysis" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995495" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33783785" sideWeight="0.4978678" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4180602" sideWeight="0.4978678" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995495" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5506757" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2713348" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11353944" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32664436" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -609,9 +754,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3265766" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32664436" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -702,6 +845,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -709,13 +853,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="14" lean-forward="false" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/src/services/storage.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="54" column="7" lean-forward="false" selection-start-line="54" selection-start-column="7" selection-end-line="54" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -754,39 +891,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/src/pages/coffee_list.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="35" column="51" lean-forward="false" selection-start-line="35" selection-start-column="51" selection-end-line="35" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/src/pages/stuff.dart">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="28" column="3" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="28" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/android/app/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pubspec.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/android/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="54" lean-forward="true" selection-start-line="8" selection-start-column="54" selection-end-line="8" selection-end-column="54" />
           <folding />
         </state>
       </provider>
@@ -795,6 +903,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-805">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -802,6 +911,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -809,6 +919,32 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="124">
           <caret line="91" column="15" lean-forward="false" selection-start-line="91" selection-start-column="15" selection-end-line="91" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="590">
+          <caret line="49" column="85" lean-forward="false" selection-start-line="49" selection-start-column="85" selection-end-line="49" selection-end-column="85" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="15" column="17" lean-forward="false" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/cloud_firestore-0.2.12/lib/cloud_firestore.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding>
+            <element signature="e#243#263#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -820,9 +956,43 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/services/storage.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pubspec.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="10" lean-forward="false" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/coffee_book_app.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="46" lean-forward="false" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+          <folding>
+            <element signature="e#277#307#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/pages/coffee_list.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="28" column="22" lean-forward="true" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://E:/flutter/packages/flutter/lib/src/services/message_codecs.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="872">
+        <state relative-caret-position="378">
           <caret line="501" column="4" lean-forward="false" selection-start-line="501" selection-start-column="4" selection-end-line="501" selection-end-column="4" />
           <folding />
         </state>
@@ -830,26 +1000,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/src/pages/splash_page.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="25" lean-forward="false" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        <state relative-caret-position="340">
+          <caret line="20" column="12" lean-forward="false" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/src/coffee_book_app.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="8" column="32" lean-forward="false" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
-          <folding>
-            <element signature="e#22#42#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/src/util/authentication.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="15" column="32" lean-forward="true" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        <state relative-caret-position="187">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="18" selection-end-column="50" />
           <folding />
         </state>
       </provider>

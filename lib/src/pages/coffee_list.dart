@@ -31,7 +31,7 @@ class CoffeeListState extends State<CoffeeList> {
     coffees = [];
     disabledCoffees = new Set();
 
-    auth.currentUser().then((FirebaseUser user) {
+    _auth.currentUser().then((FirebaseUser user) {
       if (user == null) {
         Navigator.of(context).pushReplacementNamed('/');
       } else {
@@ -151,7 +151,7 @@ class CoffeeListState extends State<CoffeeList> {
               title: const Text('Logout', textAlign: TextAlign.right),
               trailing: const Icon(Icons.exit_to_app),
               onTap: () async {
-                await _signOutWithGoogle();
+                await signOutWithGoogle();
                 Navigator.of(context).pushReplacementNamed('/');
               },
             ),
