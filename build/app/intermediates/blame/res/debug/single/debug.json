@@ -1,0 +1,210 @@
+[
+    {
+        "merged": "D:\\flutter_apps\\coffee_book\\build\\app\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\MRL\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\3b18e6c9f4226a93b3aa1c6ed95b91ed\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\flutter_apps\\coffee_book\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\MRL\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\3b18e6c9f4226a93b3aa1c6ed95b91ed\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\flutter_apps\\coffee_book\\build\\app\\intermediates\\res\\merged\\debug\\color_common_google_signin_btn_text_light.xml.flat",
+        "source": "C:\\Users\\MRL\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\3b18e6c9f4226a93b3aa1c6ed95b91ed\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\flutter_apps\\coffee_book\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\flutter_apps\\coffee_book\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\flutter_apps\\coffee_book\\build\\app\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_light_normal.xml.flat",
+        "source": "C:\\Users\\MRL\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\3b18e6c9f4226a93b3aa1c6ed95b91ed\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "D:\\flutter_apps\\coffee_book\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_full_open_on_phone.png.flat",
+        "source": "C:\\Users\\MRL\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\3b18e6c9f4226a93b3aa1c6ed95b91ed\\res\\drawable-xhdpi-v4\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "D:\\flutter_apps\\coffee_book\\build\\app\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_disabled.xml.flat",
+        "source": "C:\\Users\\MRL\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\3b18e6c9f4226a93b3aa1c6ed95b91ed\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "D:\\flutter_apps\\coffee_book\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\MRL\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\3b18e6c9f4226a93b3aa1c6ed95b91ed\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\flutter_apps\\coffee_book\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "C:\\Users\\MRL\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\3b18e6c9f4226a93b3aa1c6ed95b91ed\\res\\drawable-xxhdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "D:\\flutter_apps\\coffee_book\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "C:\\Users\\MRL\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\3b18e6c9f4226a93b3aa1c6ed95b91ed\\res\\drawable-xhdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "D:\\flutter_apps\\coffee_book\\build\\app\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\MRL\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\3b18e6c9f4226a93b3aa1c6ed95b91ed\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\flutter_apps\\coffee_book\\build\\app\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\MRL\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\3b18e6c9f4226a93b3aa1c6ed95b91ed\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\flutter_apps\\coffee_book\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\MRL\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\3b18e6c9f4226a93b3aa1c6ed95b91ed\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\flutter_apps\\coffee_book\\build\\app\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_light_focused.xml.flat",
+        "source": "C:\\Users\\MRL\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\3b18e6c9f4226a93b3aa1c6ed95b91ed\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "D:\\flutter_apps\\coffee_book\\build\\app\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_light.xml.flat",
+        "source": "C:\\Users\\MRL\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\3b18e6c9f4226a93b3aa1c6ed95b91ed\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\flutter_apps\\coffee_book\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "C:\\Users\\MRL\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\3b18e6c9f4226a93b3aa1c6ed95b91ed\\res\\drawable-xhdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "D:\\flutter_apps\\coffee_book\\build\\app\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_light.xml.flat",
+        "source": "C:\\Users\\MRL\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\3b18e6c9f4226a93b3aa1c6ed95b91ed\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\flutter_apps\\coffee_book\\build\\app\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\MRL\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\3b18e6c9f4226a93b3aa1c6ed95b91ed\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\flutter_apps\\coffee_book\\build\\app\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\MRL\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\3b18e6c9f4226a93b3aa1c6ed95b91ed\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\flutter_apps\\coffee_book\\build\\app\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\MRL\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\3b18e6c9f4226a93b3aa1c6ed95b91ed\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\flutter_apps\\coffee_book\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\flutter_apps\\coffee_book\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\flutter_apps\\coffee_book\\build\\app\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_dark_focused.xml.flat",
+        "source": "C:\\Users\\MRL\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\3b18e6c9f4226a93b3aa1c6ed95b91ed\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "D:\\flutter_apps\\coffee_book\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\MRL\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\3b18e6c9f4226a93b3aa1c6ed95b91ed\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\flutter_apps\\coffee_book\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\flutter_apps\\coffee_book\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\flutter_apps\\coffee_book\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "C:\\Users\\MRL\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\3b18e6c9f4226a93b3aa1c6ed95b91ed\\res\\drawable-xxhdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "D:\\flutter_apps\\coffee_book\\build\\app\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_dark_normal.xml.flat",
+        "source": "C:\\Users\\MRL\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\3b18e6c9f4226a93b3aa1c6ed95b91ed\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "D:\\flutter_apps\\coffee_book\\build\\app\\intermediates\\res\\merged\\debug\\color_common_google_signin_btn_text_dark.xml.flat",
+        "source": "C:\\Users\\MRL\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\3b18e6c9f4226a93b3aa1c6ed95b91ed\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\flutter_apps\\coffee_book\\build\\app\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_dark_focused.xml.flat",
+        "source": "C:\\Users\\MRL\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\3b18e6c9f4226a93b3aa1c6ed95b91ed\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "D:\\flutter_apps\\coffee_book\\build\\app\\intermediates\\res\\merged\\debug\\drawable-watch-v20_common_google_signin_btn_text_disabled.xml.flat",
+        "source": "C:\\Users\\MRL\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-auth-11.8.0.aar\\83b9139c146f3c97fca8241ff2411db0\\res\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "D:\\flutter_apps\\coffee_book\\build\\app\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_light_focused.xml.flat",
+        "source": "C:\\Users\\MRL\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\3b18e6c9f4226a93b3aa1c6ed95b91ed\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "D:\\flutter_apps\\coffee_book\\build\\app\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "C:\\Users\\MRL\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\3b18e6c9f4226a93b3aa1c6ed95b91ed\\res\\drawable-hdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "D:\\flutter_apps\\coffee_book\\build\\app\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "C:\\Users\\MRL\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\3b18e6c9f4226a93b3aa1c6ed95b91ed\\res\\drawable-mdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "D:\\flutter_apps\\coffee_book\\build\\app\\intermediates\\res\\merged\\debug\\drawable_launch_background.xml.flat",
+        "source": "D:\\flutter_apps\\coffee_book\\android\\app\\src\\main\\res\\drawable\\launch_background.xml"
+    },
+    {
+        "merged": "D:\\flutter_apps\\coffee_book\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\MRL\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\3b18e6c9f4226a93b3aa1c6ed95b91ed\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\flutter_apps\\coffee_book\\build\\app\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_full_open_on_phone.png.flat",
+        "source": "C:\\Users\\MRL\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\3b18e6c9f4226a93b3aa1c6ed95b91ed\\res\\drawable-hdpi-v4\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "D:\\flutter_apps\\coffee_book\\build\\app\\intermediates\\res\\merged\\debug\\drawable-watch-v20_common_google_signin_btn_text_dark_normal.xml.flat",
+        "source": "C:\\Users\\MRL\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-auth-11.8.0.aar\\83b9139c146f3c97fca8241ff2411db0\\res\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "D:\\flutter_apps\\coffee_book\\build\\app\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "C:\\Users\\MRL\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\3b18e6c9f4226a93b3aa1c6ed95b91ed\\res\\drawable-mdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "D:\\flutter_apps\\coffee_book\\build\\app\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_dark_normal.xml.flat",
+        "source": "C:\\Users\\MRL\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\3b18e6c9f4226a93b3aa1c6ed95b91ed\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "D:\\flutter_apps\\coffee_book\\build\\app\\intermediates\\res\\merged\\debug\\color_common_google_signin_btn_tint.xml.flat",
+        "source": "C:\\Users\\MRL\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\3b18e6c9f4226a93b3aa1c6ed95b91ed\\res\\color\\common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "D:\\flutter_apps\\coffee_book\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\MRL\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\3b18e6c9f4226a93b3aa1c6ed95b91ed\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\flutter_apps\\coffee_book\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\flutter_apps\\coffee_book\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\flutter_apps\\coffee_book\\build\\app\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_dark.xml.flat",
+        "source": "C:\\Users\\MRL\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\3b18e6c9f4226a93b3aa1c6ed95b91ed\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\flutter_apps\\coffee_book\\build\\app\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_light_normal.xml.flat",
+        "source": "C:\\Users\\MRL\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\3b18e6c9f4226a93b3aa1c6ed95b91ed\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "D:\\flutter_apps\\coffee_book\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\flutter_apps\\coffee_book\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\flutter_apps\\coffee_book\\build\\app\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_dark.xml.flat",
+        "source": "C:\\Users\\MRL\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\3b18e6c9f4226a93b3aa1c6ed95b91ed\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\flutter_apps\\coffee_book\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\MRL\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\3b18e6c9f4226a93b3aa1c6ed95b91ed\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\flutter_apps\\coffee_book\\build\\app\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\MRL\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\3b18e6c9f4226a93b3aa1c6ed95b91ed\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\flutter_apps\\coffee_book\\build\\app\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_disabled.xml.flat",
+        "source": "C:\\Users\\MRL\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\3b18e6c9f4226a93b3aa1c6ed95b91ed\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "D:\\flutter_apps\\coffee_book\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\MRL\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\3b18e6c9f4226a93b3aa1c6ed95b91ed\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\flutter_apps\\coffee_book\\build\\app\\intermediates\\res\\merged\\debug\\drawable-watch-v20_common_google_signin_btn_text_light_normal.xml.flat",
+        "source": "C:\\Users\\MRL\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-auth-11.8.0.aar\\83b9139c146f3c97fca8241ff2411db0\\res\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "D:\\flutter_apps\\coffee_book\\build\\app\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\MRL\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\3b18e6c9f4226a93b3aa1c6ed95b91ed\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\flutter_apps\\coffee_book\\build\\app\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "C:\\Users\\MRL\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\3b18e6c9f4226a93b3aa1c6ed95b91ed\\res\\drawable-hdpi-v4\\googleg_disabled_color_18.png"
+    }
+]
