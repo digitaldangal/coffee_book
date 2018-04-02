@@ -1,6 +1,6 @@
 part of coffee_book;
 
-final CollectionReference coffeeCollection = Firestore.instance.collection('coffee');
+final CollectionReference coffeeCollection = Firestore.instance.collection('coffees');
 
 class Storage {
   final FirebaseUser user;
@@ -26,6 +26,7 @@ class Storage {
 
   /// Returns a stream of data snapshots for the user, paginated using limit/offset
   Stream<QuerySnapshot> list({int limit, int offset}) {
+
     Stream<QuerySnapshot> snapshots = coffeeCollection.where('uid', isEqualTo: this.user.uid).snapshots;
     if (offset != null) {
       snapshots = snapshots.skip(offset);

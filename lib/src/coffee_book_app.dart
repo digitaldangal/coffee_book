@@ -29,7 +29,7 @@ class CoffeeBookApp extends StatelessWidget {
       ),
       home: new SplashPage(),
       routes: <String, WidgetBuilder>{
-        '/coffees': (BuildContext context) => new CoffeeBookApp(),
+        '/coffee_list': (BuildContext context) => new CoffeeList(),
       },
     );
   }
