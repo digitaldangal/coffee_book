@@ -5,90 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb20cb00-72a0-4d3f-8a12-8bffb242ca52" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/cloud_firestore/intermediates/classes/debug/android/support/compat/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/cloud_firestore/intermediates/classes/debug/android/support/coreui/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/cloud_firestore/intermediates/classes/debug/android/support/coreutils/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/cloud_firestore/intermediates/classes/debug/android/support/fragment/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/cloud_firestore/intermediates/classes/debug/android/support/mediacompat/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/cloud_firestore/intermediates/classes/debug/android/support/v4/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/cloud_firestore/intermediates/classes/debug/com/google/android/gms/R$array.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/cloud_firestore/intermediates/classes/debug/com/google/android/gms/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/cloud_firestore/intermediates/classes/debug/com/google/android/gms/R$color.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/cloud_firestore/intermediates/classes/debug/com/google/android/gms/R$dimen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/cloud_firestore/intermediates/classes/debug/com/google/android/gms/R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/cloud_firestore/intermediates/classes/debug/com/google/android/gms/R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/cloud_firestore/intermediates/classes/debug/com/google/android/gms/R$integer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/cloud_firestore/intermediates/classes/debug/com/google/android/gms/R$layout.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/cloud_firestore/intermediates/classes/debug/com/google/android/gms/R$raw.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/cloud_firestore/intermediates/classes/debug/com/google/android/gms/R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/cloud_firestore/intermediates/classes/debug/com/google/android/gms/R$style.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/cloud_firestore/intermediates/classes/debug/com/google/android/gms/R$styleable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/cloud_firestore/intermediates/classes/debug/com/google/android/gms/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/cloud_firestore/intermediates/classes/debug/com/google/android/gms/common/license/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/cloud_firestore/intermediates/classes/debug/com/google/android/gms/tasks/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/cloud_firestore/intermediates/classes/debug/com/google/android/gms/tasks/license/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/cloud_firestore/intermediates/classes/debug/com/google/firebase/firebase/common/license/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/cloud_firestore/intermediates/classes/debug/com/google/firebase/firebase/iid/license/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/cloud_firestore/intermediates/classes/debug/com/google/firebase/firebase_common/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/cloud_firestore/intermediates/classes/debug/com/google/firebase/firebase_core/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/cloud_firestore/intermediates/classes/debug/com/google/firebase/firebase_firestore/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/cloud_firestore/intermediates/classes/debug/com/google/firebase/iid/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/cloud_firestore/intermediates/classes/debug/com/google/firebase/measurement/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/cloud_firestore/intermediates/classes/debug/com/google/firebase/measurement/impl/license/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/cloud_firestore/intermediates/classes/debug/com/google/firebase/measurement/license/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/cloud_firestore/intermediates/classes/debug/com/google/firebase/measurement_impl/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/cloud_firestore/intermediates/classes/debug/io/flutter/plugins/firebase/cloudfirestore/CloudFirestorePlugin$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/cloud_firestore/intermediates/classes/debug/io/flutter/plugins/firebase/cloudfirestore/CloudFirestorePlugin$10.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/cloud_firestore/intermediates/classes/debug/io/flutter/plugins/firebase/cloudfirestore/CloudFirestorePlugin$11.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/cloud_firestore/intermediates/classes/debug/io/flutter/plugins/firebase/cloudfirestore/CloudFirestorePlugin$12.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/cloud_firestore/intermediates/classes/debug/io/flutter/plugins/firebase/cloudfirestore/CloudFirestorePlugin$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/cloud_firestore/intermediates/classes/debug/io/flutter/plugins/firebase/cloudfirestore/CloudFirestorePlugin$3$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/cloud_firestore/intermediates/classes/debug/io/flutter/plugins/firebase/cloudfirestore/CloudFirestorePlugin$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/cloud_firestore/intermediates/classes/debug/io/flutter/plugins/firebase/cloudfirestore/CloudFirestorePlugin$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/cloud_firestore/intermediates/classes/debug/io/flutter/plugins/firebase/cloudfirestore/CloudFirestorePlugin$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/cloud_firestore/intermediates/classes/debug/io/flutter/plugins/firebase/cloudfirestore/CloudFirestorePlugin$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/cloud_firestore/intermediates/classes/debug/io/flutter/plugins/firebase/cloudfirestore/CloudFirestorePlugin$7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/cloud_firestore/intermediates/classes/debug/io/flutter/plugins/firebase/cloudfirestore/CloudFirestorePlugin$8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/cloud_firestore/intermediates/classes/debug/io/flutter/plugins/firebase/cloudfirestore/CloudFirestorePlugin$9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/cloud_firestore/intermediates/classes/debug/io/flutter/plugins/firebase/cloudfirestore/CloudFirestorePlugin$DocumentObserver.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/cloud_firestore/intermediates/classes/debug/io/flutter/plugins/firebase/cloudfirestore/CloudFirestorePlugin$EventObserver.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/cloud_firestore/intermediates/classes/debug/io/flutter/plugins/firebase/cloudfirestore/CloudFirestorePlugin.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/cloud_firestore/intermediates/classes/debug/io/flutter/plugins/firebase/firestore/BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/cloud_firestore/intermediates/classes/debug/io/flutter/plugins/firebase/firestore/R$array.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/cloud_firestore/intermediates/classes/debug/io/flutter/plugins/firebase/firestore/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/cloud_firestore/intermediates/classes/debug/io/flutter/plugins/firebase/firestore/R$color.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/cloud_firestore/intermediates/classes/debug/io/flutter/plugins/firebase/firestore/R$dimen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/cloud_firestore/intermediates/classes/debug/io/flutter/plugins/firebase/firestore/R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/cloud_firestore/intermediates/classes/debug/io/flutter/plugins/firebase/firestore/R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/cloud_firestore/intermediates/classes/debug/io/flutter/plugins/firebase/firestore/R$integer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/cloud_firestore/intermediates/classes/debug/io/flutter/plugins/firebase/firestore/R$layout.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/cloud_firestore/intermediates/classes/debug/io/flutter/plugins/firebase/firestore/R$raw.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/cloud_firestore/intermediates/classes/debug/io/flutter/plugins/firebase/firestore/R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/cloud_firestore/intermediates/classes/debug/io/flutter/plugins/firebase/firestore/R$style.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/cloud_firestore/intermediates/classes/debug/io/flutter/plugins/firebase/firestore/R$styleable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/cloud_firestore/intermediates/classes/debug/io/flutter/plugins/firebase/firestore/R.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/app/intermediates/assets/debug/flutter_assets/snapshot_blob.bin" afterPath="$PROJECT_DIR$/build/app/intermediates/assets/debug/flutter_assets/snapshot_blob.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/app.flx" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/app.flx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/snapshot_blob.bin" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/snapshot_blob.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/snapshot_blob.bin" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/snapshot_blob.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/app/outputs/apk/app.apk" afterPath="$PROJECT_DIR$/build/app/outputs/apk/app.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/app/outputs/apk/debug/app-debug.apk" afterPath="$PROJECT_DIR$/build/app/outputs/apk/debug/app-debug.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.flutter-plugins" afterPath="$PROJECT_DIR$/.flutter-plugins" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.packages" afterPath="$PROJECT_DIR$/.packages" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/snapshot_blob.bin.d" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/snapshot_blob.bin.d" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/snapshot_blob.bin.d.fingerprint" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/snapshot_blob.bin.d.fingerprint" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/packageDebug/debug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/packageDebug/debug/dex-renamer-state.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/packageDebug/debug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/packageDebug/debug/file-input-save-data.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/app/outputs/apk/app.apk.sha1" afterPath="$PROJECT_DIR$/build/app/outputs/apk/app.apk.sha1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/src/coffee_book_app.dart" afterPath="$PROJECT_DIR$/lib/src/coffee_book_app.dart" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/src/pages/splash_page.dart" afterPath="$PROJECT_DIR$/lib/src/pages/splash_page.dart" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/src/services/storage.dart" afterPath="$PROJECT_DIR$/lib/src/services/storage.dart" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/src/util/authentication.dart" afterPath="$PROJECT_DIR$/lib/src/util/authentication.dart" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pubspec.lock" afterPath="$PROJECT_DIR$/pubspec.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pubspec.yaml" afterPath="$PROJECT_DIR$/pubspec.yaml" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
@@ -127,8 +45,8 @@
       <file leaf-file-name="pubspec.yaml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pubspec.yaml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="26" lean-forward="false" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+            <state relative-caret-position="119">
+              <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -522,7 +440,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1522655378387" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1522655472763" />
       </method>
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
@@ -570,7 +488,7 @@
       </Profilers>
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1522655378387" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1522655472763" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -764,11 +682,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3265766" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3265766" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -776,7 +693,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33110368" sideWeight="0.5021322" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Dart Analysis" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995495" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33783785" sideWeight="0.4978678" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33783785" sideWeight="0.4978678" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995495" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5506757" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1048,8 +965,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pubspec.yaml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="26" lean-forward="false" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        <state relative-caret-position="119">
+          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
           <folding />
         </state>
       </provider>
