@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb20cb00-72a0-4d3f-8a12-8bffb242ca52" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/lib/src/models/item.dart" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/lib/src/pages/permissions_page.dart" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/lib/src/widgets/drawer_widget.dart" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
@@ -447,10 +444,10 @@
       <change beforePath="$PROJECT_DIR$/coffee_book_android.iml" afterPath="$PROJECT_DIR$/coffee_book_android.iml" />
       <change beforePath="$PROJECT_DIR$/lib/src/coffee_book_app.dart" afterPath="$PROJECT_DIR$/lib/src/coffee_book_app.dart" />
       <change beforePath="$PROJECT_DIR$/lib/src/models/coffee.dart" afterPath="$PROJECT_DIR$/lib/src/models/coffee.dart" />
-      <change beforePath="$PROJECT_DIR$/lib/src/pages/coffee_list.dart" afterPath="$PROJECT_DIR$/lib/src/pages/list.dart" />
+      <change beforePath="$PROJECT_DIR$/lib/src/pages/coffee_list.dart" afterPath="" />
       <change beforePath="$PROJECT_DIR$/lib/src/services/storage.dart" afterPath="$PROJECT_DIR$/lib/src/services/storage.dart" />
-      <change beforePath="$PROJECT_DIR$/lib/src/widgets/coffee_header.dart" afterPath="$PROJECT_DIR$/lib/src/widgets/item_header.dart" />
-      <change beforePath="$PROJECT_DIR$/lib/src/widgets/coffee_widget.dart" afterPath="$PROJECT_DIR$/lib/src/widgets/item_widget.dart" />
+      <change beforePath="$PROJECT_DIR$/lib/src/widgets/coffee_header.dart" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/src/widgets/coffee_widget.dart" afterPath="" />
       <change beforePath="$PROJECT_DIR$/pubspec.lock" afterPath="$PROJECT_DIR$/pubspec.lock" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
@@ -498,8 +495,8 @@
       <file leaf-file-name="list.dart" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/src/pages/list.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="434">
-              <caret line="70" column="40" lean-forward="false" selection-start-line="70" selection-start-column="40" selection-end-line="70" selection-end-column="40" />
+            <state relative-caret-position="-8">
+              <caret line="53" column="27" lean-forward="true" selection-start-line="53" selection-start-column="27" selection-end-line="53" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -728,7 +725,7 @@
     <property name="io.flutter.reload.alreadyRun" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
     <property name="KEY_COMPOSED_FOLDERS" value="{&quot;DecomposedFolders&quot;:[]}" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1522817464201" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1522817533361" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -1428,8 +1425,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/src/pages/list.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="70" column="40" lean-forward="false" selection-start-line="70" selection-start-column="40" selection-end-line="70" selection-end-column="40" />
+        <state relative-caret-position="-8">
+          <caret line="53" column="27" lean-forward="true" selection-start-line="53" selection-start-column="27" selection-end-line="53" selection-end-column="27" />
           <folding />
         </state>
       </provider>
