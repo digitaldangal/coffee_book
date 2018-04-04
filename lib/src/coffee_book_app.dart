@@ -7,15 +7,20 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:google_sign_in/google_sign_in.dart';
 import 'package:meta/meta.dart';
+import 'package:flutter/services.dart';
+
 
 part 'pages/splash_page.dart';
-part 'pages/coffee_list.dart';
+part 'pages/list.dart';
 part 'models/coffee.dart';
+part 'models/item.dart';
 part 'services/storage.dart';
 part 'util/authentication.dart';
 part 'widgets/loading_indicator.dart';
-part 'widgets/coffee_header.dart';
-part 'widgets/coffee_widget.dart';
+part 'widgets/item_header.dart';
+part 'widgets/drawer_widget.dart';
+part 'widgets/item_widget.dart';
+part 'pages/permissions_page.dart';
 
 class CoffeeBookApp extends StatelessWidget {
   @override
@@ -27,9 +32,10 @@ class CoffeeBookApp extends StatelessWidget {
         fontFamily: 'Helvetica Neue',
         primarySwatch: Colors.blueGrey,
       ),
-      home: new SplashPage(),
+      home: new PermissionsPage(),
       routes: <String, WidgetBuilder>{
-        '/coffee_list': (BuildContext context) => new CoffeeList(),
+        '/coffee_list': (BuildContext context) => new ItemList(),
+        '/splash_page': (BuildContext context) => new SplashPage(),
       },
     );
   }

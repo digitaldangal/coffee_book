@@ -36,6 +36,23 @@
                         "endColumns": "109,202,128,113,209,131,141,131,218,110,196,131,207,183,92,96,114",
                         "endOffsets": "210,413,542,656,866,998,1140,1272,1697,1808,2005,2137,2345,2529,2622,2719,2834"
                     }
+                },
+                {
+                    "source": "C:\\Users\\MRL\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\a15cab8d367b1522b95716520a1d6b20\\res\\values-hi\\values-hi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "2839",
+                        "endColumns": "100",
+                        "endOffsets": "2935"
+                    }
                 }
             ]
         }

@@ -1,19 +1,16 @@
 part of coffee_book;
 
-final CollectionReference coffeeCollection = Firestore.instance.collection('coffees');
-
 class Storage {
   final FirebaseUser user;
+  CollectionReference get usersCollectionRef => Firestore.instance.collection('users');
 
   Storage.forUser({
     @required this.user,
   }) : assert(user != null);
 
-  static Coffee fromDocument(DocumentSnapshot document) => _fromMap(document.data);
+  static Item fromDocument(DocumentSnapshot document) => new Item.fromMap(document.data);
 
-  static Coffee _fromMap(Map<String, dynamic> data) => new Coffee.fromMap(data);
-
-  Map<String, dynamic> _toMap(Coffee item, [Map<String, dynamic> other]) {
+  Map<String, dynamic> _toMap(Item item, [Map<String, dynamic> other]) {
     final Map<String, dynamic> result = {};
     if (other != null) {
       result.addAll(other);
@@ -25,70 +22,56 @@ class Storage {
   }
 
   /// Returns a stream of data snapshots for the user, paginated using limit/offset
-  Stream<QuerySnapshot> list({int limit, int offset}) {
-
-    Stream<QuerySnapshot> snapshots = coffeeCollection.where('uid', isEqualTo: this.user.uid).snapshots;
+  Stream<QuerySnapshot> list(String type, {int limit, int offset}) {
+    CollectionReference collectionReference = usersCollectionRef.document(user.uid).getCollection(type);
+    Stream<QuerySnapshot> snapshots = collectionReference.snapshots;
     if (offset != null) {
       snapshots = snapshots.skip(offset);
     }
     if (limit != null) {
-      // TODO can probably use _query.limit in an intelligent way with offset
       snapshots = snapshots.take(limit);
     }
     return snapshots;
   }
 
-  Future<Coffee> create(String name) async {
-    final TransactionHandler createTransaction = (Transaction tx) async {
-      final DocumentSnapshot newDoc = await tx.get(coffeeCollection.document());
-      final Coffee newItem = new Coffee(id: newDoc.documentID, name: name);
-      final Map<String, dynamic> data = _toMap(newItem, {
-        'created': new DateTime.now().toUtc().toIso8601String(),
+  Future<void> create(String type, Map<String, dynamic> itemData) async {
+    CollectionReference collectionReference = usersCollectionRef.document(user.uid).getCollection(type);
+    DocumentReference documentReference = collectionReference.document();
+    Item item = new Item(id: documentReference.documentID, type: type, itemData: new Map.from(itemData), uid: user.uid);
+    Map<String, dynamic> data = _toMap(item, {
+      'created': new DateTime.now().toUtc().toIso8601String(),
+    });
+    documentReference.setData(data);
+  }
+
+  Future<bool> update(Item item) async {
+    if(user.uid == item.uid)
+    {
+      CollectionReference collectionReference = usersCollectionRef.document(user.uid).getCollection(item.type);
+      DocumentReference documentReference = collectionReference.document(item.id);
+      Map<String, dynamic> data = _toMap(item, {
+        'updated': new DateTime.now().toUtc().toIso8601String(),
       });
-      await tx.set(newDoc.reference, data);
-
-      return data;
-    };
-
-    return Firestore.instance.runTransaction(createTransaction).then(_fromMap).catchError((e) {
-      print('dart error: $e');
-      return null;
-    });
-  }
-
-  Future<bool> update(Coffee item) async {
-    final TransactionHandler updateTransaction = (Transaction tx) async {
-      final DocumentSnapshot doc = await tx.get(coffeeCollection.document(item.id));
-      // Permission check
-      if (doc['uid'] != this.user.uid) {
+      documentReference.setData(data);
+      return true;
+    }
+    else
+      {
         throw new Exception('Permission Denied');
       }
-
-      await tx.update(doc.reference, _toMap(item));
-      return {'result': true};
-    };
-
-    return Firestore.instance.runTransaction(updateTransaction).then((r) => r['result']).catchError((e) {
-      print('dart error: $e');
-      return false;
-    });
   }
 
-  Future<bool> delete(String id) async {
-    final TransactionHandler deleteTransaction = (Transaction tx) async {
-      final DocumentSnapshot doc = await tx.get(coffeeCollection.document(id));
-      // Permission check
-      if (doc['uid'] != this.user.uid) {
-        throw new Exception('Permission Denied');
-      }
-
-      await tx.delete(doc.reference);
-      return {'result': true};
-    };
-
-    return Firestore.instance.runTransaction(deleteTransaction).then((r) => r['result']).catchError((e) {
-      print('dart error: $e}');
-      return false;
-    });
+  Future<bool> delete(Item item) async {
+    if(user.uid == item.uid)
+    {
+      CollectionReference collectionReference = usersCollectionRef.document(user.uid).getCollection(item.type);
+      DocumentReference documentReference = collectionReference.document(item.id);
+      documentReference.delete();
+      return true;
+    }
+    else
+    {
+      throw new Exception('Permission Denied');
+    }
   }
 }
