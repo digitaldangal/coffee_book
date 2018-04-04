@@ -1,11 +1,13 @@
 part of coffee_book;
 
 class ItemList extends StatefulWidget {
+  final String type;
+
+  ItemList({Key key, @required this.type})
+      : super(key: key);
   @override
   State<StatefulWidget> createState() => new ItemListState();
 }
-
-String type = 'coffees';
 
 /// The bulk of the app's "smarts" are in this class
 class ItemListState extends State<ItemList> {
@@ -23,7 +25,7 @@ class ItemListState extends State<ItemList> {
       } else {
         storage = new Storage.forUser(user: user);
         itemSub?.cancel();
-        itemSub = storage.list(type).listen((QuerySnapshot snapshot) {
+        itemSub = storage.list(widget.type).listen((QuerySnapshot snapshot) {
           final List<Item> items = snapshot.documents
               .map(Storage.fromDocument)
               .toList(growable: false);
@@ -48,10 +50,20 @@ class ItemListState extends State<ItemList> {
   Widget build(BuildContext context) {
     return new Scaffold(
       appBar: new AppBar(
-        title: new Text(type),
+        title: new Text(widget.type),
       ),
       drawer: new DrawerWidget(),
       body: buildContent(),
+      floatingActionButton: new FloatingActionButton(
+        child: new Icon(Icons.add),
+        onPressed: () {
+          Navigator.push(
+              context,
+              new MaterialPageRoute(
+                  builder: (context) =>
+                      new ItemForm(user: user, selectedItem: null, type: widget.type,)));
+        },
+      ),
     );
   }
 
@@ -95,7 +107,7 @@ class ItemListState extends State<ItemList> {
     Map<String, dynamic> data = {
       'name': title,
     };
-    storage.create(type, data);
+    storage.create(widget.type, data);
   }
 
   void _delete(Item item) {

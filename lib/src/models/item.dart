@@ -18,12 +18,16 @@ class Item {
         assert(itemData != null && itemData.isNotEmpty);
 
   Item.fromMap(Map<String, dynamic> data)
-      : this(id: data['id'], itemData: new Map.from(data['itemData']), type: data['type'], uid: data['uid']);
+      : this(
+            id: data['id'],
+            itemData: new Map.from(data['itemData']),
+            type: data['type'],
+            uid: data['uid']);
 
   Map<String, dynamic> toMap() => {
-    'id': this.id,
-    'uid': this.uid,
-    'type': this.type,
-    'itemData': this.itemData,
-  };
+        'id': this.id,
+        'uid': this.uid,
+        'type': this.type,
+        'itemData': this.itemData,
+      };
 }

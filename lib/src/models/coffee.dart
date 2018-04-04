@@ -17,10 +17,9 @@ class Coffee {
     @required this.name,
   }) : assert(name != null && name.isNotEmpty);
 
-  Coffee.fromMap(Map<String, dynamic> data)
-      : this(name: data['name']);
+  Coffee.fromMap(Map<String, dynamic> data) : this(name: data['name']);
 
   Map<String, dynamic> toMap() => {
-    'name': this.name,
-  };
+        'name': this.name,
+      };
 }

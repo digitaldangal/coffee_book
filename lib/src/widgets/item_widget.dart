@@ -14,11 +14,10 @@ class ItemWidget extends StatefulWidget {
         super(key: key);
 
   @override
-  State<StatefulWidget> createState() => new _CoffeeWidgetState();
+  State<StatefulWidget> createState() => new _ItemWidgetState();
 }
 
-class _CoffeeWidgetState extends State<ItemWidget> {
-
+class _ItemWidgetState extends State<ItemWidget> {
   @override
   void initState() {
     super.initState();

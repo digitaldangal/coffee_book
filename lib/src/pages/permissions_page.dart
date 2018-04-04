@@ -12,7 +12,6 @@ class PermissionsPage extends StatefulWidget {
 }
 
 class _PermissionsPageState extends State<PermissionsPage> {
-
   static const _methodChannel = const MethodChannel('runtimepermission');
   BuildContext _scaffoldContext;
 
@@ -47,9 +46,10 @@ class _PermissionsPageState extends State<PermissionsPage> {
     PermissionState permissionState = await checkPermissions();
     switch (permissionState) {
       case PermissionState.GRANTED:
-      // Give the navigation animations, etc, some time to finish
-        new Future.delayed(new Duration(seconds: 1))
-            .then((_) => Navigator.of(context).pushReplacementNamed('/splash_page'));
+        // Give the navigation animations, etc, some time to finish
+        new Future.delayed(new Duration(seconds: 1)).then((_) => Navigator.push(
+            context,
+            new MaterialPageRoute(builder: (context) => new SplashPage())));
         break;
       case PermissionState.DENIED:
         await new Future.delayed(new Duration(seconds: 1));
@@ -74,9 +74,9 @@ class _PermissionsPageState extends State<PermissionsPage> {
 
   void showErrorMessage() {
     Scaffold.of(_scaffoldContext).showSnackBar(new SnackBar(
-      content: new Text('No permission'),
-      duration: new Duration(seconds: 5),
-    ));
+          content: new Text('No permission'),
+          duration: new Duration(seconds: 5),
+        ));
   }
 
   Future showPermissionRationale() {
@@ -104,6 +104,4 @@ class _PermissionsPageState extends State<PermissionsPage> {
       ),
     );
   }
-
-
 }
